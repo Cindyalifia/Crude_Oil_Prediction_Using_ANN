@@ -15,11 +15,10 @@
 - Numpy version 1.16.1
 - Matplotlib version 2.2.3
 
-## Split dataset and lookback
-### I use 67% of dataset to data X and 33% to data Y
-### And also because this data is time series type, so i use lookback = 3. Lookback is how much data we use to predict one data. Of course all data still have to be fit to ann, but we have to predict with specified lookback to make data more acurate.
+### Split dataset and lookback
+I use 67% of dataset to data X and 33% to data Y. And also because this data is time series type, so i use lookback = 3. Lookback is how much data we use to predict one data. Of course all data still have to be fit to ann, but we have to predict with specified lookback to make data more acurate.
 
-## I use Input layer = 64, Hidden layer = 8, Hidden layer = 8, Hidden layer = 8, Output layer = 1 and the result of crude oil predicition describe with image below 
+### I use Input layer = 64, Hidden layer = 8, Hidden layer = 8, Hidden layer = 8, Output layer = 1 and the result of crude oil predicition describe with image below 
 
 ![](./Result.JPG)
 
