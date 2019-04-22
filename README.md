@@ -6,7 +6,7 @@
 
 ### I do predict with ANN algorithm and using Linear Regression concept
 
-**I got loss equal to 0.0021**
+**I got loss equal to 0.00005 = 0.05%**
 
 ### Tools that needed to be installed are :
 - Keras version 2.2.4
