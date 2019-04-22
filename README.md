@@ -4,9 +4,9 @@
 
 **Datatrain available in Europe_Oil_Price.csv**
 
-### I do predict with ANN algorithm and using Linear Regression concept
+### I do predict with ANN algorithm 
 
-**I got loss equal to 0.00005 = 0.05%**
+I got loss equal to 0.00005 = 0.05%
 
 ### Tools that needed to be installed are :
 - Keras version 2.2.4
